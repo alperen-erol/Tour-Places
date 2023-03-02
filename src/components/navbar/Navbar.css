@@ -1,0 +1,10 @@
+.navbarcontainer{
+    display: flex;
+    justify-content: center;
+    padding: 20px;
+    background-color: rgb(218, 88, 88);
+    color: white;
+}
+.navbaritem{
+    margin: 0px 30px;
+}
